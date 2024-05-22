@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hamza Amjad</h1>
 <h3 align="center">A passionate App developer from Pakistan</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamza-amjd&label=Profile%20views&color=0e75b6&style=flat" alt="hamza-amjd" /> </p>
 
