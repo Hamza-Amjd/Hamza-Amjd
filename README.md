@@ -1,3 +1,4 @@
+[![MasterHead](https://media.licdn.com/dms/image/D4D12AQG1-1xLPzoLsw/article-cover_image-shrink_600_2000/0/1653971382299?e=2147483647&v=beta&t=sAo-4ZNUKeumSJT2alOBWHjxxYaIzckVDLNoQtKUPY8)](https://hamza-Amjd.io)
 <h1 align="center">Hi 👋, I'm Hamza Amjad</h1>
 <h3 align="center">A passionate App developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif">
