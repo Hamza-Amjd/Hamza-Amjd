@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamza-amjd&label=Profile%20views&color=0e75b6&style=flat" alt="hamza-amjd" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/hamzaam98821716" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/hamzaam98821716?logo=twitter&style=for-the-badge" alt="https://twitter.com/hamzaam98821716" /></a> </p>
+
 
 - 🌱 I’m currently learning **React Native**
 
